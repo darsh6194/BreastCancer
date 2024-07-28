@@ -60,18 +60,18 @@ The dataset used for this project is the [Breast Cancer Wisconsin (Diagnostic) D
 
 ## Usage
 
-1. **Data Preprocessing**:
+1. *Data Preprocessing*:
   
    ```
 
 2.
    ```
 
-3. **Evaluate the Model**:
+3. Evaluate the Model:
   
    ```
 
-4. **Make Predictions**:
+4. Make Predictions:
   
    ```
 
